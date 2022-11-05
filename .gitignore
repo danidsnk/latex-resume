@@ -1,0 +1,14 @@
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.dvi
+*.xdv
+*.fdb*
+.*sw[op]
+*~
+.vscode
+*.DS_Store
